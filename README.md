@@ -1,5 +1,5 @@
 # SHIFT-Score-Carcinoma-in-Adenoma
-Code and data for the paper "Integrating spatial descriptors quantifies changing cell interactions as colorectal neoplasia progresses", Bull et al 2026.
+Code and data for the paper "Integrating spatial descriptors quantifies changing cell interactions as colorectal neoplasia progresses", Bull et al 2026. Large datasets are available in the "releases" tab associated with this repository.
 
 
 ## Licensing and Data Availability

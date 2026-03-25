@@ -33,11 +33,11 @@ The dataset used in the paper:
 
 > **“Integrating spatial descriptors quantifies changing cell interactions as colorectal neoplasia progresses”**
 
-will be provided as a single compressed archive:
+is be provided as a single compressed archive:
 
 - **`data.zip`** (≈600 MB compressed)  
 - **≈2.34 GB** uncompressed
 
-This dataset contains all regions of interest considered in the study which passed automated alignment QC (note that some regions are filtered out in preprocessing in execution of the analysis and figure generation code, as described in the manuscript). To download the dataset, visit the GitHub Release associated with this version of the repository (not yet online at time of writing this readme):
+This dataset contains all regions of interest considered in the study which passed automated alignment QC (note that some regions are filtered out in preprocessing in execution of the analysis and figure generation code, as described in the manuscript). To download the dataset, visit the GitHub Release associated with this version of the repository. You can find this under "Releases" in the sidebar, or go to the most recent release by clicking the following link:
 
 **https://github.com/JABull1066/SHIFT-Score-Carcinoma-in-Adenoma/releases/latest**
